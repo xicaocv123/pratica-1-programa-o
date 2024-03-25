@@ -1,0 +1,21 @@
+header{
+background-color: whitesmoke;
+background-image: linear-gradient(to left, purple, pink);
+text-align: center;
+padding: 10px;
+border-radius: 10px;
+
+}
+body{
+    color:black;
+    background-image: linear-gradient(to left, purple, pink);
+    text-align: justify;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+
+footer{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
